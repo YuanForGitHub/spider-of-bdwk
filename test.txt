@@ -1,0 +1,858 @@
+<!doctype html><!--STATUS OK-->
+<html lang="en" class="sf-edu-wenku">
+    <head>
+        <script type="text/javascript">var logstarttime = new Date().getTime();</script>
+        <meta charset="utf-8"/>
+        <meta http-equiv="Cache-control" content="no-cache"/>
+        
+            <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+        
+        <meta content="telephone=no" name="format-detection"/>
+        <meta content="address=no" name="format-detection"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <title>华南农业大学计算机组成原理试卷(及答案)汇总 - 百度文库</title>
+        
+    
+        
+    
+    <script>
+(function(syncPage, page, vw) {
+    var alogObjectConfig = {
+        sample: '1',
+        product: '112',
+        page: '112_58',
+        monkey_page: '',
+        speed_page: '',
+
+        speed: {
+            sample: 1
+        },
+
+        monkey: {
+            sample: '1'
+        },
+
+        exception: {
+            sample: '1'
+        },
+
+        feature: {
+            sample: 1
+        },
+
+        cus: {
+            sample: +'0.5' || 1
+        },
+
+        csp: {
+            sample: 1,
+            'default-src': [
+                {match: '*bae.baidu.com', target: 'Accept,Warn'},
+                {match: '*.baidu.com,*.bdstatic.com,*.baidustatic.com,*.bdimg.com,localhost,*.hao123.com,*.hao123img.com', target: 'Accept'},
+                {match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},
+                {match: '*', target: 'Accept,Warn'}
+            ]
+        }
+    };
+    if (syncPage) {
+        window.alogObjectConfig = alogObjectConfig;
+    }
+    else {
+        page.alogObjectConfig = alogObjectConfig;
+    }
+}).apply(this, window._SF_ ? [
+    window._SF_.__SYNC__PAGE__,
+    window._SF_.page,
+    window._SF_.vw
+] : [
+    true, null, null
+]);
+</script>
+
+
+        <script>
+            // dp监控
+            void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.mobile.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+            void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+        </script>
+
+        <meta name="keywords" content="百度文库"/>
+        <meta name="description" content="百度文库" />
+
+        
+        
+            <meta itemprop="datePublished" content="2015-06-10 21:33:38">
+        
+
+        
+    
+    
+        
+    
+
+            <style type="text/css">html{margin:0;padding:0;border:0;outline:0;font-size:100%;font:inherit;vertical-align:baseline;-webkit-text-size-adjust:none;font-size:100px;height:100%;width:100%}@media screen and (max-width:360px){html{font-size:90px!important}}</style>
+            <style type="text/css">.sf-edu-wenku{}.sf-edu-wenku body,.sf-edu-wenku div,.sf-edu-wenku span,.sf-edu-wenku applet,.sf-edu-wenku object,.sf-edu-wenku iframe,.sf-edu-wenku h1,.sf-edu-wenku h2,.sf-edu-wenku h3,.sf-edu-wenku h4,.sf-edu-wenku h5,.sf-edu-wenku h6,.sf-edu-wenku p,.sf-edu-wenku blockquote,.sf-edu-wenku pre,.sf-edu-wenku a,.sf-edu-wenku abbr,.sf-edu-wenku acronym,.sf-edu-wenku address,.sf-edu-wenku big,.sf-edu-wenku cite,.sf-edu-wenku code,.sf-edu-wenku del,.sf-edu-wenku dfn,.sf-edu-wenku em,.sf-edu-wenku img,.sf-edu-wenku ins,.sf-edu-wenku kbd,.sf-edu-wenku q,.sf-edu-wenku s,.sf-edu-wenku samp,.sf-edu-wenku small,.sf-edu-wenku strike,.sf-edu-wenku strong,.sf-edu-wenku sub,.sf-edu-wenku sup,.sf-edu-wenku tt,.sf-edu-wenku var,.sf-edu-wenku b,.sf-edu-wenku u,.sf-edu-wenku i,.sf-edu-wenku center,.sf-edu-wenku dl,.sf-edu-wenku dt,.sf-edu-wenku dd,.sf-edu-wenku ol,.sf-edu-wenku ul,.sf-edu-wenku li,.sf-edu-wenku fieldset,.sf-edu-wenku form,.sf-edu-wenku label,.sf-edu-wenku legend,.sf-edu-wenku table,.sf-edu-wenku caption,.sf-edu-wenku tbody,.sf-edu-wenku tfoot,.sf-edu-wenku thead,.sf-edu-wenku tr,.sf-edu-wenku th,.sf-edu-wenku td,.sf-edu-wenku article,.sf-edu-wenku aside,.sf-edu-wenku canvas,.sf-edu-wenku details,.sf-edu-wenku figcaption,.sf-edu-wenku figure,.sf-edu-wenku footer,.sf-edu-wenku header,.sf-edu-wenku hgroup,.sf-edu-wenku menu,.sf-edu-wenku nav,.sf-edu-wenku section,.sf-edu-wenku summary,.sf-edu-wenku time,.sf-edu-wenku mark,.sf-edu-wenku audio,.sf-edu-wenku video{margin:0;padding:0;border:0;outline:0;font-size:100%;font:inherit;vertical-align:baseline}.sf-edu-wenku body,.sf-edu-wenku form,.sf-edu-wenku fieldset,.sf-edu-wenku p,.sf-edu-wenku div,.sf-edu-wenku h1,.sf-edu-wenku h2,.sf-edu-wenku h3,.sf-edu-wenku h4,.sf-edu-wenku h5,.sf-edu-wenku h6{-webkit-text-size-adjust:none}.sf-edu-wenku article,.sf-edu-wenku aside,.sf-edu-wenku details,.sf-edu-wenku figcaption,.sf-edu-wenku figure,.sf-edu-wenku footer,.sf-edu-wenku header,.sf-edu-wenku hgroup,.sf-edu-wenku menu,.sf-edu-wenku nav,.sf-edu-wenku section{display:block}.sf-edu-wenku body{font-family:arial,sans-serif}.sf-edu-wenku ol,.sf-edu-wenku ul{list-style:none}.sf-edu-wenku blockquote,.sf-edu-wenku q{quotes:none}.sf-edu-wenku blockquote:before,.sf-edu-wenku blockquote:after,.sf-edu-wenku q:before,.sf-edu-wenku q:after{content:'';content:none}.sf-edu-wenku ins{text-decoration:none}.sf-edu-wenku del{text-decoration:line-through}.sf-edu-wenku table{border-collapse:collapse;border-spacing:0}.sf-edu-wenku .clearfix:after{content:'\0020';display:block;height:0;clear:both}.sf-edu-wenku .clearfix{*zoom:1}.sf-edu-wenku body{height:100%;width:100%;font-size:14px}.sf-edu-wenku .sfa-view .sfa-body{padding-top:0}.sf-edu-wenku html,.sf-edu-wenku body{height:100%;width:100%}.sf-edu-wenku *{outline:0;-webkit-tap-highlight-color:transparent}</style>
+            <style type="text/css">.sf-edu-wenku{}.sf-edu-wenku .sfa-loading-icon i{margin:0 7px}</style>
+            <style type="text/css">.sf-edu-wenku{/*!css/pmd.css*/}.sf-edu-wenku html{-webkit-text-size-adjust:none}.sf-edu-wenku .c-container,.sf-edu-wenku .wk-container{margin-left:4.10628019%;margin-right:4.10628019%;width:auto;color:#333;font:14px/22px "PingFang SC","Noto Sans CJK SC","Source Han Sans CN";word-break:break-word;word-wrap:break-word;border:0 none}.sf-edu-wenku .c-flexbox,.sf-edu-wenku .c-row,.sf-edu-wenku .wk-row{width:auto;display:-webkit-box;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-box-pack:justify;-webkit-box-align:stretch;-webkit-box-lines:single;display:-webkit-flex;-webkit-flex-direction:row;-webkit-align-items:stretch;-webkit-align-content:flex-start;-webkit-flex-wrap:nowrap;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-webkit-justify-content:flex-start}.sf-edu-wenku .wk-row,.sf-edu-wenku .c-row{margin-right:-1.03092784%;margin-left:-1.03092784%}.sf-edu-wenku .c-row *,.sf-edu-wenku .wk-row *,.sf-edu-wenku .c-row-tile *,.sf-edu-wenku .c-row-top *,.sf-edu-wenku .c-row-bottom *{box-sizing:border-box}.sf-edu-wenku .c-span1,.sf-edu-wenku .wk-span1{box-sizing:content-box;width:6.40350877%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span2,.sf-edu-wenku .wk-span2{box-sizing:content-box;width:14.9122807%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span3,.sf-edu-wenku .wk-span3{box-sizing:content-box;width:23.42105263%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span4,.sf-edu-wenku .wk-span4{box-sizing:content-box;width:31.92982456%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span5,.sf-edu-wenku .wk-span5{box-sizing:content-box;width:40.43859649%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span6,.sf-edu-wenku .wk-span6{box-sizing:content-box;width:48.94736842%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span7,.sf-edu-wenku .wk-span7{box-sizing:content-box;width:57.45614035%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span8,.sf-edu-wenku .wk-span8{box-sizing:content-box;width:65.96491228%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span9,.sf-edu-wenku .wk-span9{box-sizing:content-box;width:74.47368421%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span10,.sf-edu-wenku .wk-span10{box-sizing:content-box;width:82.98245614%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span11,.sf-edu-wenku .wk-span11{box-sizing:content-box;width:91.49122807%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}.sf-edu-wenku .c-span12,.sf-edu-wenku .wk-span12{box-sizing:content-box;width:100%;padding-left:1.05263158%;padding-right:1.05263158%;position:relative;min-height:1px}</style>
+            
+            <style type="text/css">.sf-edu-wenku{}.sf-edu-wenku .fc-uiwg-cguidetoastwg-root{height:25px;background:rgba(0,0,0,.7);border-radius:4px;color:#fff;font-size:14px;font-weight:400;line-height:25px;padding:0 7px;z-index:9999;text-align:left;position:absolute}.sf-edu-wenku .fc-uiwg-cguidetoastwg-root .trangle{position:absolute;top:-10px;width:0;height:0;border-left:5px solid transparent;border-top:5px solid transparent;border-right:5px solid transparent;border-bottom:5px solid rgba(0,0,0,.7)}</style>
+<style type="text/css">.sf-edu-wenku{}.sf-edu-wenku .c-uiwg-ctoastwg-root{position:fixed;width:100%;height:16px;bottom:40px;z-index:99999999999;color:#fff;font-size:14px;text-align:center;display:none}.sf-edu-wenku .c-uiwg-ctoastwg-root span{background:rgba(0,0,0,.6);padding:12px 18px}</style>
+
+        
+        
+    <link rel="stylesheet" href="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/toc.common_e817b5a.css" /><link rel="stylesheet" href="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/copyPrevilege/copyPrevilege_c0e83fe.css" /><link rel="stylesheet" href="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/common_cd74386.css" /></head>
+    <script> window.alog && alog('speed.set', 'ht', +new Date); </script>
+    <body >
+        
+        <div class="sf-edu-wenku-vw-container">
+            <div class="sfa-head"></div>
+            <div class="sfa-body">
+                
+    
+    
+        
+        
+        <style type="text/css">.ovhidden{width:100%;height:100%;overflow:hidden!important;box-sizing:border-box}body{position:relative}.sf-edu-wenku .sfa-body{padding-top:0;font-size:14px;background:#fff}</style>
+
+
+<style type="text/css">.sf-edu-wenku .flayer_bg{background:rgba(0,0,0,.05);position:fixed;left:0;top:0;width:100%;z-index:99999999999}.sf-edu-wenku .waiting_contaner{position:fixed;top:50%;left:50%;padding-left:10px;padding-right:10px;width:auto;height:36px;margin-top:-18px;margin-left:0!important;line-height:36px;background:rgba(50,50,50,.95);z-index:999999999999;border-radius:5px;font-size:14px;color:#fff;text-align:center;-webkit-transform:translateX(-50%)!important;-ms-transform:translateX(-50%)!important;transform:translateX(-50%)!important}.sf-edu-wenku .waiting_contaner span{display:inline-block}.sf-edu-wenku .waiting_contaner .icon{width:20px;height:20px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5pJREFUWMPVmNtLVFEUh+d2Zrzk3YnMMrOLKaSVNkYXKqOMrCiCtKAyQxK6PETZjYwghKDrUz30UHYxiKAgK4tes4JeSnvrb5nWgt+BxWbvOeeMe8wePmaYc/vOWmvvtfeE0ul0yBJFRA/RR5TZum/IouAe4hZxl+iebsEo0UDMz3DOQSF43ON+s2wLbiXOE5eI+gyCtz0ES4gbxBNiv01BTtkAcYE4RcQ15xwQEew33Kcfcs+IBzYFOb3nIMhRbPcQ1EVwCeSeEs+JE7YHSbeQZMoDRDBCXIccR++R5vopCyaJM6jFi5qRyoI3DYLtIrUjGPE5mWa2iCheRtrUCN7DXOj+XkjcR/RGcDyWjSAX/jY8aIXhJnmoHVfymDi2HBFkgZRSGm70XhDLMkz0HOlak+BSdIIePLhLPRk0E2eR6j7lWCUxW/ltUMid1tyP63M38ZJ4T7yRz1Vr7BBxhDgKWLRT07paiZ24xitNKaR4iChVjrXg2DvIfSDGiNWmGkxC6DBEOZq9EF2Ht7XRwrgjXSNGFbEx1HbMa5AsIvYpEWXRtRbkNhFvFbGPxEMZOT+jmN9iFQaNK7rRguAdiLHUJ+IVscuUHb/LqBRSXGhBsBtio8hK/nQtt4JQ5fdl/5VgoPVgESbZJtAM+PsGpLc8Bw9vQuscMLCZ6zKEL52CHQL3tw4sWm3J8UuPC75oPpkud9hvF3Ro4BYUtii4l/hOfBN8Vb4zJ93lN/fHRtCgUI8ysJleh7hCDKNPDys8RvrL/otB4ofYTBV00PbWoKvkWXjoeuIqukfWgtx2qtEb2/DJK5g5Fjb3P4lJ4hf2JvVBBXnOWwmxFORaMG9NNYJ8/R/iNyQnIDqILanniroR6WxDxFqR2hqLdbgYU8wkRCfAOPbKEZNgrZLOFoS/QHlAPs6t8jl5RzQrFQfbhh+aaA6ZBKuFWJPhDyB+UB2iwJ/FHqM9gszEDBmYhz2MK8ifn02CYewpkhlWzkns5OoQRblUKsb1JeL6KOrOlTR1I14Iv0Y0e7NdzcQROZ52FmpGNMtVYN/hiN8TwMmmjoOcPFcILtD8P+MKlinHIhB0oxjNhWAhUutGT7f8khGMa6Ivoxi2LVgrBkaNoUYrIK4TDIsoOkGimE3tmVY2FSLFCUM/T/gYMIEFw9jH1nm0ukoRwUSGl00Y/l+c8iBxPI6XGwaJ+rLRXNSgH0qFoJOegf/yxzBZF9hcD/4Fy0FMQgjMWuYAAAAASUVORK5CYII=);background-size:100% 100%;position:relative;top:6px;margin-right:5px;-webkit-animation-name:waiting-loading-frames;animation-name:waiting-loading-frames;-webkit-animation-duration:2s;animation-duration:2s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-timing-function:linear;animation-timing-function:linear}@-webkit-keyframes waiting-loading-frames{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}50%{-webkit-transform:rotate(180deg);transform:rotate(180deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes waiting-loading-frames{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}50%{-webkit-transform:rotate(180deg);transform:rotate(180deg)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}</style>
+
+
+<script>
+    if (window._SF_ && !window._SF_.__SYNC__PAGE__
+        && window._SF_.vw.wkCustom
+        && window._SF_.vw.wkCustom.hideLoading) {
+        window._SF_.vw.wkCustom.hideLoading(true);
+    }
+</script>
+
+
+<div class="sf-edu-wenku-id-waiting_contaner waiting_contaner">
+    <span class="icon"></span>
+    <span class="text">请稍等...</span>
+</div>
+
+
+
+
+
+<style type="text/css">.sf-edu-wenku{}.sf-edu-wenku html{-webkit-text-size-adjust:none}.sf-edu-wenku .sfcommonwg-cashiervip-root{background-color:#fff;position:fixed;bottom:0;width:100%;z-index:500;display:none}.sf-edu-wenku .sfcommonwg-cashiervip-root>.tabs-root{background:#fff;z-index:1000;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:39px;padding-top:12px;border-bottom:2px solid #E6E6E6}.sf-edu-wenku .sfcommonwg-cashiervip-root>.tabs-root .icon-close{position:absolute;top:0;right:4.10628019%;margin-right:-17px;background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/image/close_7bc6095.png);background-size:16px 16px;background-position:50% 50%;background-repeat:no-repeat;width:50px;height:50px}.sf-edu-wenku .sfcommonwg-cashiervip-root>.tabs-root>.tab{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;text-align:center;font-size:15px;line-height:37px}.sf-edu-wenku .sfcommonwg-cashiervip-root>.tabs-root>.tab>span{display:inline-block}.sf-edu-wenku .sfcommonwg-cashiervip-root>.tabs-root>.tab>span .mark-recom{margin-left:4px;vertical-align:text-bottom;display:inline-block;color:#fff;background-color:#1CB584;border-radius:2px;line-height:15px;height:15px;font-size:10px;padding:0 3px}.sf-edu-wenku .sfcommonwg-cashiervip-root.wkvip>.tabs-root{padding-right:20px}.sf-edu-wenku .sfcommonwg-cashiervip-root.wkvip>.tabs-root>.tab.active>span{color:#E54843;border-bottom:2px solid #E54843}.sf-edu-wenku .sfcommonwg-cashiervip-root.wkvip>.tabs-root>.tab.active>span{color:#E54843;border-bottom:2px solid #E54843}.sf-edu-wenku .sfcommonwg-cashiervip-root.jyvip>.tabs-root>.tab.active>span{color:#14AD7F;border-bottom:2px solid #14AD7F}</style>
+<style type="text/css">.sf-edu-wenku{}.sf-edu-wenku html{-webkit-text-size-adjust:none}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root{overflow-y:auto;background:#fff;z-index:1000;position:relative;-webkit-overflow-scrolling:touch;margin-top:-1px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list{padding-top:14px;padding-bottom:12px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item{display:inline-block;padding-top:4px;padding-bottom:4px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div{border-radius:2px;border:1px solid #E9E9E9;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:12px 0;height:16px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div>div{text-align:center;line-height:16px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .time-length{height:16px;width:38%;color:#999;border-right:1px solid #E9E9E9}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price{width:62%;font-weight:700}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount{width:15px;height:15px;display:inline-block;font-size:10px;line-height:15px;background-color:#FFF8F8;color:#E54843;vertical-align:top;position:relative;border-radius:2px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{content:'';position:absolute;width:100%;height:100%;top:0;left:0;-ms-transform-origin:left top;transform-origin:left top;-webkit-transform-origin:left top;box-sizing:border-box;pointer-events:none}@media (-webkit-min-device-pixel-ratio:2){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{width:200%;height:200%;-webkit-transform:scale(0.5)}}@media (-webkit-min-device-pixel-ratio:2.5){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{width:250%;height:250%;-webkit-transform:scale(0.4)}}@media (-webkit-min-device-pixel-ratio:2.75){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{width:275%;height:275%;-webkit-transform:scale(0.36363636)}}@media (-webkit-min-device-pixel-ratio:3){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{width:300%;height:300%;-ms-transform:scale(0.33333333);transform:scale(0.33333333);-webkit-transform:scale(0.33333333)}}@media (-webkit-min-device-pixel-ratio:2){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{border-radius:4px}}@media (-webkit-min-device-pixel-ratio:2.5){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{border-radius:5px}}@media (-webkit-min-device-pixel-ratio:2.75){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{border-radius:5.5px}}@media (-webkit-min-device-pixel-ratio:3){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{border-radius:6px}}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div .price .mark-discount:before{border-width:1px;border-style:solid;border-color:#e54843}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item.goods-item-odd{margin-left:-1.05263158%}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item.goods-item-even{margin-right:-1.05263158%}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap{background:#F9F9F9;border-radius:2px;padding-top:7.5px;padding-bottom:7.5px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .privilege-item{padding-left:4.47368421%}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .privilege-item .row-1{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:95%;display:inline-block}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .privilege-item i{display:inline-block;width:4px;height:4px;border-radius:2px;background-color:#D8D8D8;vertical-align:top;margin-top:11px;margin-right:4px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .privilege-item div{display:inline}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .privilege-item>div>div{line-height:26px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .newvip>div>div{line-height:26px;font-size:13px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .wkvip .privilege-item div .stress{color:#E54843;font-size:13px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .privileges-wrap .jyvip .privilege-item div .stress{color:#14AD7F;font-size:13px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap{padding-bottom:7.5px;margin-top:27px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title{font-size:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;height:20px;position:relative}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line:before{content:'';position:absolute;width:100%;height:100%;top:0;left:0;-ms-transform-origin:left top;transform-origin:left top;-webkit-transform-origin:left top;box-sizing:border-box;pointer-events:none}@media (-webkit-min-device-pixel-ratio:2){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line:before{width:200%;height:200%;-webkit-transform:scale(0.5)}}@media (-webkit-min-device-pixel-ratio:2.5){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line:before{width:250%;height:250%;-webkit-transform:scale(0.4)}}@media (-webkit-min-device-pixel-ratio:2.75){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line:before{width:275%;height:275%;-webkit-transform:scale(0.36363636)}}@media (-webkit-min-device-pixel-ratio:3){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line:before{width:300%;height:300%;-ms-transform:scale(0.33333333);transform:scale(0.33333333);-webkit-transform:scale(0.33333333)}}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.line:before{border-width:1px 0 0;border-style:solid;border-color:#e1e1e1}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap>.title>.text{margin-top:-10px;text-align:center;color:#666;line-height:20px;font-size:14px;height:20px;padding:0 10px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info{color:#666;line-height:26px;font-size:13px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .voucher_list{display:inline-block;position:relative;top:7px;text-align:center;width:13px;height:13px;cursor:pointer;background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/voucher/uncheck_8bba198.svg);background-repeat:no-repeat;background-position:2px center;padding-left:5px;margin:auto}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .radioclass{opacity:0;cursor:pointer;-ms-filter:"alpha(Opacity=0)";filter:alpha(opacity=0)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .gray{color:#999}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .voucher-more{float:right;padding-right:20px;color:#999}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .down{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/voucher/down_bac2a80.svg);background-repeat:no-repeat;background-position:31px 9px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .up{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/voucher/up_4fcd3d4.svg);background-repeat:no-repeat;background-position:31px 9px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .voucher-wrap .voucher-info .on{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/voucher/checked_7e83f9d.svg);background-repeat:no-repeat;background-position:2px center}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap{padding-bottom:15px;margin-top:27px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title{font-size:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;height:20px;position:relative}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line:before{content:'';position:absolute;width:100%;height:100%;top:0;left:0;-ms-transform-origin:left top;transform-origin:left top;-webkit-transform-origin:left top;box-sizing:border-box;pointer-events:none}@media (-webkit-min-device-pixel-ratio:2){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line:before{width:200%;height:200%;-webkit-transform:scale(0.5)}}@media (-webkit-min-device-pixel-ratio:2.5){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line:before{width:250%;height:250%;-webkit-transform:scale(0.4)}}@media (-webkit-min-device-pixel-ratio:2.75){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line:before{width:275%;height:275%;-webkit-transform:scale(0.36363636)}}@media (-webkit-min-device-pixel-ratio:3){.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line:before{width:300%;height:300%;-ms-transform:scale(0.33333333);transform:scale(0.33333333);-webkit-transform:scale(0.33333333)}}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.line:before{border-width:1px 0 0;border-style:solid;border-color:#e1e1e1}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap>.title>.text{margin-top:-10px;text-align:center;color:#666;line-height:20px;font-size:14px;height:20px;padding:0 10px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wkvip .icon,.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon{background-repeat:no-repeat;background-size:43px 43px;background-position:50% 50%;width:100%;height:43px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wkvip .icon.icon-free-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/wkvip/icon-free-doc_320c5e4.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wkvip .icon.icon-pro-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/wkvip/professional-doc-icon_d3ec75d.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wkvip .icon.icon-discount{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/wkvip/icon-discount_1f96c6f.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wkvip .icon.icon-share-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/wkvip/share-doc-icon_5cf35a8.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wkvip .icon.icon-identity{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/wkvip/icon-identity_e2aa9a0.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-free-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-free-doc_563e36f.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-free-book{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-free-book_552b51c.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-free-video{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-free-video_1c2f414.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-download{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-download_4e72cd1.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-discount{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-discount_60f9e6f.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-identity{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-identity_e8484f5.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-free-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/icon-free-doc_563e36f.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-pro-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/professional-doc-icon_2844213.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .jyvip .icon.icon-share-doc{background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/image/jyvip/share-doc-icon_53b939e.png)}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .wk-row{padding-top:9px;padding-bottom:9px}.sf-edu-wenku .sfcommonwg-cashiervip-goods-root .more-privileges-wrap .privilege-text{text-align:center;font-size:13px;line-height:20px;height:20px;margin-top:13px;color:#666}.sf-edu-wenku .sfcommonwg-cashiervip-root.jyvip .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div.active{border-color:#14AD7F;background-color:#F4FFFC}.sf-edu-wenku .sfcommonwg-cashiervip-root.jyvip .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div.active .time-length{color:#509B85;border-right:1px solid #B5F4DD}.sf-edu-wenku .sfcommonwg-cashiervip-root.jyvip .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div.active .price{color:#14AD7F}.sf-edu-wenku .sfcommonwg-cashiervip-root.wkvip .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div.active{border-color:#E54843;background-color:#FFF8F8}.sf-edu-wenku .sfcommonwg-cashiervip-root.wkvip .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div.active .time-length{color:#E27576;border-right:1px solid #FECFD0}.sf-edu-wenku .sfcommonwg-cashiervip-root.wkvip .sfcommonwg-cashiervip-goods-root .vip-goods-list .goods-item>div.active .price{color:#E54843}</style>
+<style type="text/css">.sf-edu-wenku .sfcommonwg-mask-root{bottom:0;position:absolute;width:100%;height:100%;background-color:rgba(0,0,0,.65);z-index:8}</style>
+<style type="text/css">.sf-edu-wenku{}.sf-edu-wenku html{-webkit-text-size-adjust:none}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root{font-size:0;height:48px;width:100%;background:#fff;z-index:1000;position:relative}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info,.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .confirm{display:inline-block}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info{position:relative;width:66.50563607%;padding-left:6.17433414%;box-sizing:border-box;font-size:16px;color:#333;height:48px;line-height:48px;vertical-align:top}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info:before{content:'';position:absolute;width:100%;height:100%;top:0;left:0;-ms-transform-origin:left top;transform-origin:left top;-webkit-transform-origin:left top;box-sizing:border-box;pointer-events:none}@media (-webkit-min-device-pixel-ratio:2){.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info:before{width:200%;height:200%;-webkit-transform:scale(0.5)}}@media (-webkit-min-device-pixel-ratio:2.5){.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info:before{width:250%;height:250%;-webkit-transform:scale(0.4)}}@media (-webkit-min-device-pixel-ratio:2.75){.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info:before{width:275%;height:275%;-webkit-transform:scale(0.36363636)}}@media (-webkit-min-device-pixel-ratio:3){.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info:before{width:300%;height:300%;-ms-transform:scale(0.33333333);transform:scale(0.33333333);-webkit-transform:scale(0.33333333)}}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info:before{border-width:1px 0 0;border-style:solid;border-color:#e6e6e6}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .price-info>span{font-size:20px;color:#E54843}.sf-edu-wenku .sfcommonwg-cashiervip-pay-root .confirm{width:33.41384863%;color:#fff;background-color:#14AD7F;line-height:48px;font-size:18px;text-align:center}</style>
+<div class="sfcommonwg-cashiervip-root"
+     :style="{display: show ? 'block' : 'none'}"
+     :class="{'wkvip': vipType==='wkvip', 'jyvip': vipType==='jyvip'}">
+    <component-mask-cashiervip></component-mask-cashiervip>
+    <div class="tabs-root">
+        <div class="tab" :class="{'active': vipType==='wkvip'}" @click="switchTab('wkvip')">
+            <span class="newvip" v-if="isNewVip">百度文库VIP</span>
+            <span v-else>文库经典VIP</span>
+        </div>
+        <div class="tab" :class="{'active': vipType==='jyvip'}" @click="switchTab('jyvip')">
+            <span>百度教育VIP<i class="mark-recom">推荐</i></span>
+        </div>
+        <i class="icon-close" @click="handleClose"></i>
+    </div>
+    <component-goods
+            :vip-user-info="vipUserInfo"
+            :doc-info="docInfo"
+            :is-new-vip="isNewVip">
+    </component-goods>
+    <component-pay
+            :doc-id="docId"
+            :vip-user-info="vipUserInfo"
+            :is-login="isLogin"
+            :reader-type="readerType"
+            :ppt2-retype="ppt2Retype"
+            :cashier-code-suffix="cashierCodeSuffix"
+        >
+    </component-pay>
+</div>
+
+
+
+
+<style type="text/css">.sf-edu-wenku .voucher-package-root{background-color:#fff;position:fixed;bottom:0;width:100%;z-index:500;display:none}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;background:#fff;z-index:1000;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:210px;width:100%;display:block;padding-top:24px;border-bottom:2px solid #E6E6E6}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .icon-close{position:absolute;top:0;right:4.10628019%;margin-right:-17px;background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucherPackage/image/close_f50ae26.svg);background-size:16px 16px;background-position:50% 50%;background-repeat:no-repeat;width:50px;height:50px}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .package-title{width:100%;font-size:18px;line-height:18px;text-align:center;position:fixed}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .package-title .red{color:#E54743}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .package-icon{width:59.17874396%;height:auto;position:fixed;margin-left:20.37037037%;margin-right:20.45088567%;margin-top:36px}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .package-video{width:100%;text-align:center;position:fixed;padding-top:123px}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .package-video .package-btn{border-radius:2px;width:91.78743961%;font-size:16px;line-height:44px;background-color:#E54743;margin-left:4.10628019%;margin-right:4.10628019%;display:block;color:#fff}.sf-edu-wenku .voucher-package-root>.voucher-tabs-root .package-video .video-tip{color:#666;font-size:13px;line-height:35px}</style>
+<style type="text/css">.sf-edu-wenku .sfcommonwg-mask-root{bottom:0;position:absolute;width:100%;height:100%;background-color:rgba(0,0,0,.65);z-index:8}</style>
+<div class="voucher-package-root" :style="{display: show ? 'block' : 'none'}">
+	<component-mask-cashiervip></component-mask-cashiervip>
+	<div class="voucher-tabs-root">
+		<i class="icon-close" @click="handleClose"></i>
+		<div class="package-title">看视频广告，获取<span class="red">20元</span>代金券礼包</div>
+		<img src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucherPackage/image/package_d1990aa.png" class="package-icon">
+		<div class="package-video">
+			<a class="package-btn" @click="handleVideoAd">看视频，立领券</a>
+			<span class="video-tip">视频大小约3.7M</span>
+		</div>
+	</div>
+</div>
+
+
+
+
+<style type="text/css">.sf-edu-wenku .voucher-receive-root{background-color:#fff;position:fixed;bottom:0;width:100%;z-index:500;display:none}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;background:#fff;z-index:1000;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;height:275px;width:100%;display:block;padding-top:24px;border-bottom:2px solid #E6E6E6}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root .icon-close{position:absolute;top:0;right:4.10628019%;margin-right:-17px;background-image:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucher/image/close_f50ae26.svg);background-size:16px 16px;background-position:50% 50%;background-repeat:no-repeat;width:50px;height:50px}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root .voucher-title-tip{width:100%;font-size:18px;line-height:18px;text-align:center;position:fixed}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root .voucher-title-tip .red{color:#E54743}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root ul{padding-top:36px}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root .voucher-img{width:91.30434783%;height:auto;margin-left:4.34782609%;margin-right:4.34782609%;padding-bottom:12px}.sf-edu-wenku .voucher-receive-root>.receive-tabs-root .receive-btn{border-radius:2px;width:91.78743961%;font-size:16px;line-height:44px;text-align:center;background-color:#E54743;margin-left:4.10628019%;margin-right:4.10628019%;display:block;color:#fff;margin-top:4px}</style>
+<style type="text/css">.sf-edu-wenku .sfcommonwg-mask-root{bottom:0;position:absolute;width:100%;height:100%;background-color:rgba(0,0,0,.65);z-index:8}</style>
+<div class="voucher-receive-root" :style="{display: show ? 'block' : 'none'}">
+	<component-mask-cashiervip></component-mask-cashiervip>
+	<div class="receive-tabs-root">
+        <i class="icon-close" @click="handleClose"></i>
+        <div class="voucher-title-tip">恭喜您获得<span class="red">20元</span>VIP代金券</div>
+        <ul>
+            <li><img src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucher/image/voucher-5_d588b99.png" class="voucher-img"></li>
+            <li><img src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucher/image/voucher-15_4a390d7.png" class="voucher-img"></li>
+        </ul>
+        <a class="receive-btn" @click="handleReceiveVoucher">立即使用</a>
+	</div>
+</div>
+
+
+
+
+<style type="text/css">.sf-edu-wenku{}.sf-edu-wenku .top-bar-root{width:100%;position:fixed;z-index:9;border-bottom:#f1f1f1 1px solid;-webkit-tap-highlight-color:rgba(255,255,255,0)}.sf-edu-wenku .top-bar-root>.wk-container{box-sizing:border-box;height:44px}.sf-edu-wenku .top-bar-root>.wk-container .left-panel{display:inline-block;height:100%}.sf-edu-wenku .top-bar-root>.wk-container .left-panel span{color:#333;display:inline-block;line-height:44px;height:44px;font-size:18px;vertical-align:top;font-weight:700}.sf-edu-wenku .top-bar-root>.wk-container .left-panel span.btn-back{height:100%;width:19px;padding:0 11px;margin-left:-11px;background-repeat:no-repeat;background-size:19px 19px;background-position:50% 50%}.sf-edu-wenku .top-bar-root>.wk-container .right-panel{float:right;height:100%;font-size:0}.sf-edu-wenku .top-bar-root>.wk-container .right-panel>button{position:relative;display:inline-block;line-height:44px;font-size:18px;height:100%;width:43px;box-sizing:border-box;border:0;background-color:transparent;padding:11px}.sf-edu-wenku .top-bar-root>.wk-container .right-panel>button>i{display:block;width:21px;height:21px;background-repeat:no-repeat;background-size:21px 21px;background-position:50% 50%}.sf-edu-wenku .top-bar-root>.wk-container .right-panel>button:last-of-type{margin-right:-11px}.sf-edu-wenku .top-bar-placeholder{width:100%;height:44px}.sf-edu-wenku .top-bar-root.rtcs,.sf-edu-wenku .top-bar-root.xreader{background-color:#fff;border-bottom:#f1f1f1 1px solid}.sf-edu-wenku .top-bar-root.ppt{background-color:#000;border-bottom:1px solid #222}.sf-edu-wenku .top-bar-root.ppt .wk-container .left-panel span{color:#fff}.sf-edu-wenku .top-bar-root.ppt+.top-bar-placeholder{display:none}.sf-edu-wenku .hidden{height:100%;overflow:hidden}</style>
+
+
+<div class="top-bar-root xreader" v-show="!isNa">
+    <div class="wk-container sf-edu-wenku-id-wk_toolbar" v-show="show">
+        <div class="left-panel">
+            <span class="btn-home-back "
+                :class="{'btn-home': !btnShow.back, 'btn-back': btnShow.back}"
+                v-text="btnShow.back ? '' : '百度文库'"
+                @click="handleBackOrHome">
+            </span>
+        </div>
+        <div class="right-panel" v-bind:style="{ display: 'inline-block' }">
+            <button class="btn-search" @click="handleSearch" v-if="btnShow.search"><i></i></button>
+            <button class="btn-share" @click="handleShare" v-if="btnShow.share"><i></i></button>
+            <button class="btn-collect" :class="{'btn-collected': isCollected}" @click="handleCollect" v-if="btnShow.collect"><i></i></button>
+            <button class="btn-download" :class="{'lure': downloadBtnLure}" @click="handleDownload" v-if="btnShow.download"><i></i></button>
+            <button class="btn-setting" @click="handleSetting" v-if="btnShow.setting"><i></i></button>
+        </div>
+    </div>
+    <div class="funcs-root">
+    </div>
+</div>
+<div class="top-bar-placeholder"></div>
+
+
+
+<div class="b-zhiding-root"></div>
+
+
+
+
+
+
+<div class="sf-edu-wenku-id-container wrap xreader-container reader-xreader">
+    
+    <style type="text/css">.sf-edu-wenku{}.sf-edu-wenku .top-doc-info-root{padding-top:18px;padding-bottom:12px;border-bottom:1px solid #f1f1f1}.sf-edu-wenku .top-doc-info-root .doc-title{font-size:24px;line-height:30px;font-weight:700;color:#333;word-break:break-all;padding-bottom:1px;position:relative}.sf-edu-wenku .top-doc-info-root .doc-title>.vip-free{width:42px;height:15px;margin-left:4px;background-size:contain;display:inline-block;position:relative;top:-5px;left:0}.sf-edu-wenku .top-doc-info-root .doc-title>.new-vip-flag{color:#E54743;font-size:12px;line-height:18px;border:1px solid #EDB9BA;border-radius:2px;background:0 0;width:auto;padding:0 3px;height:18px;font-weight:400}.sf-edu-wenku .top-doc-info-root .doc-info-wrap{padding:7px 0 12px;font-size:0;line-height:0}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>div{margin:0;display:inline-block;height:13px;font-size:13px;line-height:13px;color:#999;padding:0 8px}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.uploaded-date{padding-left:0}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.pages-number,.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.value{border-left:1px solid #e7e7e7}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author{border-left:1px solid #e7e7e7}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author a{text-decoration:none;color:#405B95}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .pgc{background-size:contain}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .bgc{background-size:contain}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .pgc,.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .bgc{color:#405B95;display:inline-block;width:14px;height:13px;vertical-align:top}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .pgc:active,.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .bgc:active{opacity:.5}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.author .author-name{margin-left:0;color:#405B95;max-width:80px;line-height:13px;height:13px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;vertical-align:top}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.score{font-size:0;width:102px;height:14px}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.score>.value{float:right;font-size:13px;display:inline-block}.sf-edu-wenku .top-doc-info-root .doc-info-wrap>.price{color:#E54743}.sf-edu-wenku .top-doc-info-root .btn-view-in-app{font-size:13px;line-height:26px;border-radius:2px;display:inline-block;padding:0 8px;position:relative;border:0;background:#1CB584;color:#fff}.sf-edu-wenku .top-doc-info-root .btn-view-in-app:after{content:'';position:absolute;top:0;left:0;border:1px solid #1CB584;box-sizing:border-box;width:200%;height:200%;-webkit-transform:scale(0.5);-ms-transform:scale(0.5);transform:scale(0.5);-webkit-transform-origin:left top;-ms-transform-origin:left top;transform-origin:left top;border-radius:6px}.sf-edu-wenku .top-doc-info-root .btn-view-in-app:active{opacity:.5}.sf-edu-wenku .reader-ppt .top-doc-info-root{border-bottom:0 solid #e1e1e1;padding-top:25px}.sf-edu-wenku .reader-ppt .top-doc-info-root .btn-view-in-app{display:none}</style>
+
+
+<div class="top-doc-info-root wk-container" v-show="show">
+    <div class="doc-title">华南农业大学计算机组成原理试卷(及答案)汇总
+        
+            
+                <div class="vip-free new-vip-flag">共享文档</div>
+            
+
+        
+    </div>
+    <div class="doc-info-wrap">
+        <div class="uploaded-date">2015-06-10</div>
+        <div class="pages-number">24页</div>
+        
+        <div class="value">4.9分</div>
+        <div :class="author? 'author': ''">
+            <span :class="{'pgc': authorType==1, 'bgc': authorType==2}"></span>
+            <span class="author-name" v-text="author" v-if="author" @click="handleClickAuthor"></span>
+        </div>
+    </div>
+    <div class="btn-view-in-app">
+        
+            用App查看
+        
+    </div>
+</div>
+
+
+
+    
+    <style type="text/css">.sf-edu-wenku .sf-edu-wenku-id-content{position:relative;overflow:hidden}.sf-edu-wenku .gap{width:100%;height:8px;background:#f5f5f5}.sf-edu-wenku .gap:first-of-type{display:none}.sf-edu-wenku .content{position:relative;overflow-x:hidden;padding:0 0 10px;font-size:1em;line-height:1.7em}.sf-edu-wenku .content[data-page="1"]{padding-top:4.10628019%;border-top:1px solid #f1f1f1;min-height:40px;border-top:0}.sf-edu-wenku .content p.txt{word-wrap:break-word;color:#333;text-align:left;font-family:"PT Serif","Droid Serif","Times New Roman",arial,sans-serif;padding:9px 0}.sf-edu-wenku .content p.txt a{text-decoration:none;color:#2fad85}.sf-edu-wenku .content p.pic{text-align:center;line-height:0;padding:9px 0}.sf-edu-wenku .content p.pic .pre{background:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/cXreader/asset/image/image_load_9c75fa2.png) no-repeat center;background-size:48px 38px;margin:10px auto}.sf-edu-wenku .content p.pic img{background:#fff;vertical-align:middle}.sf-edu-wenku .content .loading{height:200px;line-height:200px;text-align:center;color:#999;font-size:12px}.sf-edu-wenku .content .page_mark{text-align:right;color:#646464}</style>
+
+<div class="sf-edu-wenku-id-content font-size-setting fsz1 sf-edu-wenku-doc-reader"></div>
+
+
+
+    
+    
+
+
+
+
+<div class="pagerwg-root hide">
+    <div class="pagerwg-loadSucc">
+        <div class="pagerwg-schedule">
+            <span>
+                已读${(nowPage*100/totalPageNum).toFixed(0)}%
+            </span>
+            <i class='pagerwg-line'></i>
+        </div>
+        <div class="pagerwg-button" v-on:click="getContentMore">
+            点击加载更多<span class="pagerwg-arrow-lower"></span>
+        </div>
+    </div>
+    <div class="pagerwg-loading hide">
+        <div class="pagerwg-loading-icon"></div>
+    </div>
+    <div class="pagerwg-loadFail hide">
+        <p>加载失败，请重试</p>
+    </div>
+</div>
+
+
+
+
+<div class="gain-doc-block-root wk-container">
+    <div v-if="currentStatus===STATUS.OTHER">
+        <div class="title">
+            <div class="text">使用文库App可享受</div>
+        </div>
+        <div class="remark rights-accessed">
+            <div><i></i><span>免费下载此文档</span></div>
+            <div><i></i><span>多端同步便捷下载</span></div>
+            <div><i></i><span>发送个人邮箱</span></div>
+        </div>
+        <div class="btns-warp wk-container">
+            <span class="btn-free-download wk-span12 stop-propagation">
+                用App免费下载
+            </span>
+        </div>
+    </div>
+
+    <div v-else>
+        <div class="title" v-if="!isTryReadEnd">
+            <div class="text">获取文档后可享受</div>
+        </div>
+        <div class="title" v-else>
+            <div class="text">试读结束，获取后可阅读全文</div>
+        </div>
+        <div class="remark rights-accessed" v-if="!isTryReadEnd">
+            <div><i></i><span>文库App随时阅读</span></div>
+            <div><i></i><span>电脑端便捷下载</span></div>
+            <div v-if="isInShoubai"><i></i><span>下载到本地</span></div>
+            <div v-else><i></i><span>发送个人邮箱</span></div>
+        </div>
+        <div class="remark rights-accessed" v-else>
+            <div><i></i><span>文库App随时阅读</span></div>
+        </div>
+        <div class="btns-warp">
+            <div class="btn-use-privilege stop-propagation" @click="usePrivilegeHandle" v-if="btnShow.usePrivilege">
+                VIP免券获取
+            </div>
+            <div class="btn-to-get-doc stop-propagation" @click="gainDocHandle" v-if="btnShow.gainDoc">
+                立即获取
+            </div>
+            <div class="btn-to-get-doc stop-propagation pro-doc" @click="gainDocHandle" v-if="btnShow.isProfessionDoc">
+                VIP免费获取
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="bottombarwg-root">
+    <div class="bottombarwg-root-bottom">
+        <div class="handel-box">
+            <div class="share-area"><i></i><span>分享</span></div>
+            <div class="collect-area"><i></i><span>收藏</span></div>
+            <div class="down-area"><i></i><span>下载</span></div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="guidetowkappwg-root">
+    <span class="app-icon"></span><span class="guidetowkappwg">下载文库客户端，离线文档随时查看</span>
+    <span class="go-app"></span>
+</div>
+
+
+<div class="b-suiwen-root"></div>
+
+
+<div class="copyprevilegewg-root">
+    <div class="copyprevilegewg-container">
+        <i class="icon-close"></i>
+        <div class="copy-tip">
+            <div class="title">超出复制上限</div>
+            <div class="sub-title">
+                <span class="line-span"></span>
+                <span class="sub-tip-message">现在开通VIP，还可获得</span>
+                <span class="line-span"></span>
+            </div>
+            <div class="rights-accessed">
+                <div><i></i><span>免费下载文档</span></div>
+                <div><i></i><span>付费文档8折</span></div>
+                <div><i></i><span>点亮专属身份</span></div>
+            </div>
+            <div class="buy-vip-btn">开通VIP，享无限制复制特权</div>
+        </div>
+    </div>
+    <div class="copyprevilegewg-mask"></div>
+</div>
+
+
+
+
+</div>
+
+
+
+
+    <div class="rec-text-root">
+    <div class="rec-head wk-container">相关推荐文档</div>
+    <ul class="rec-list">
+        <li v-for="(v, i) in recList" class="rec-li">
+            <a class="wk-container">
+                <div class="doc-icon" :class="docIconClass(v.docType)" @click="clickRecDoc(v, i)"></div>
+                <div class="doc-title" v-text="v.docTitle" @click="clickRecDoc(v, i)" :class="changeWidth(i)"></div>
+                <div class="doc-see-in-app" :class="downloadClass(i)" :data-id=v.docId :data-index=i v-if="i == 0">用App查看</div>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="b-tuijian-root"></div>
+
+<div class="b-bigpic-root"></div>
+
+
+
+
+
+<a class="sf-edu-wenku-id-right-fixed-ad-wrap"></a>
+
+
+
+
+
+<style type="text/css">.sf-edu-wenku .return-search-btn{display:none;position:fixed;bottom:20px;color:#fff;background-color:#38f;padding:4px 15px 4px 17px;font-size:15px;height:30px;line-height:30px;border-top-right-radius:3px;border-bottom-right-radius:3px;z-index:5}.sf-edu-wenku .return-search-btn .return-search-arrow{display:inline-block;margin-left:-1px;margin-top:-1px;background:url(//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/returnSearch/images/arrow_5e6adb7.png) center no-repeat;width:16px;height:16px;margin-right:6px;background-size:auto 14px;vertical-align:-3px}</style>
+<div class="return-search-btn">
+    <span class="return-search-arrow"></span>返回百度搜索
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="bottom-bar-global">
+    <div class="doc-icon-global">
+        <div>
+            <img id="img-content" src="https://edu-wenku.bdimg.com/v1/pc/na%E8%87%AA%E5%AF%BC%E6%B5%81/icon-1520488196499.png">
+        </div>
+    </div>
+    <p class="bottom-bar-content">用App打开，收藏本文随时看</p>
+    <a class="bottom-btn-go-app">一键收藏</a>
+</div>
+
+
+
+
+
+    
+
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                
+                
+                
+                <script>
+                    // dp监控
+                    void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent('onload',b,!1):a.addEventListener&&a.addEventListener('load',b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+'='+escape(c)+';path=/;expires='+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp('(^| )'+a+'=([^;]*)(;|$)'));return null!=c?unescape(c[2]):null}function j(){var a=i('PMS_JT');if(a){h('PMS_JT','',-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,'')!=a.r||alog('speed.set','wt',a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d='https:'===a.location.protocol?'https://fex.bdstatic.com'+d:'http://fex.bdstatic.com'+d,k&&l&&l>k||(g(function(){alog('speed.set','lt',+new Date),e=b.createElement(c),e.async=!0,e.src=d+'?v='+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,'script','/hunter/alog/dp.mobile.min.js');
+                </script>
+            </div>
+        </div>
+        <script src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/static/js/superframe_fix_b9796ba.js"></script>
+    <script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/static/js/mod_3a26d3d.js"></script><script type="text/javascript">!function() {with(window._SF_.page){require.resourceMap({"res":{"sf_common:widget/third_party/vue.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/third_party/vue_4d47d23.js"},"sf_common:widget/cashierVIP/components/goods/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/log_c527cc1.js","deps":["sf_common:widget/util/log.js"],"pkg":"sf_common:p4"},"sf_common:widget/cashierVIP/components/goods/goods.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/goods/goods_a162aa6.js","deps":["sf_common:widget/cashierVIP/components/goods/log.js"],"pkg":"sf_common:p4"},"sf_common:widget/cashierVIP/components/pay/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/pay/log_3a63f52.js","deps":["sf_common:widget/util/log.js"],"pkg":"sf_common:p4"},"sf_common:widget/cashierVIP/components/pay/pay.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/pay/pay_61cd4ef.js","deps":["sf_common:widget/cashierVIP/components/pay/log.js","sf_common:widget/util/cross_domain/cross_domain.js"],"pkg":"sf_common:p4"},"sf_common:widget/cashierVIP/components/mask/mask.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/components/mask/mask_05061ed.js","pkg":"sf_common:p4"},"sf_common:widget/cashierVIP/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/log_fd0537c.js","deps":["sf_common:widget/util/log.js"],"pkg":"sf_common:p4"},"sf_common:widget/cashierVIP/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashierVIP/index_ee613d0.js","deps":["sf_common:widget/third_party/vue.js","sf_common:widget/cashierVIP/components/goods/goods.js","sf_common:widget/cashierVIP/components/pay/pay.js","sf_common:widget/cashierVIP/components/mask/mask.js","sf_common:widget/cashierVIP/log.js"],"pkg":"sf_common:p4"},"sf_common:widget/voucherPackage/components/mask/mask.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucherPackage/components/mask/mask_ee2acea.js"},"sf_common:widget/voucherPackage/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucherPackage/log_83965d5.js","deps":["sf_common:widget/util/log.js"]},"sf_common:widget/voucherPackage/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucherPackage/index_6d76731.js","deps":["sf_common:widget/third_party/vue.js","sf_common:widget/voucherPackage/components/mask/mask.js","sf_common:widget/voucherPackage/log.js"]},"sf_common:widget/voucher/components/mask/mask.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucher/components/mask/mask_af4fe82.js"},"sf_common:widget/voucher/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucher/log_7cb4ffd.js","deps":["sf_common:widget/util/log.js"]},"sf_common:widget/voucher/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/voucher/index_78e4d2d.js","deps":["sf_view:widget/common/gd.js","sf_common:widget/third_party/vue.js","sf_common:widget/voucher/components/mask/mask.js","sf_common:widget/voucher/log.js"]},"sf_view:widget/common/model/bookmark.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/model/bookmark_9676caf.js","deps":["sf_view:widget/common/gd.js","sf_common:widget/util/cross_domain/cross_domain.js"]},"sf_view:widget/common/model/setting.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/model/setting_47ed6d4.js","deps":["sf_view:widget/common/gd.js","sf_common:widget/util/cross_domain/cross_domain.js"]},"sf_view:widget/toc/component/topBar/components/setting/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/setting/log_ab3ba6a.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/lib/async/clipboard.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/lib/async/clipboard_6dde7e5.js","pkg":"sf_view:p14"},"sf_view:widget/common/androidWechat/androidWechat.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/androidWechat/androidWechat_ffcafe0.js"},"sf_view:widget/lib/async/nadownload.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/lib/async/nadownload_afccce3.js","deps":["sf_view:widget/lib/async/clipboard.js","sf_view:widget/common/gd.js","sf_view:widget/common/androidWechat/androidWechat.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/log_7d3a331.js","deps":["sf_view:widget/common/gd.js"]},"sf_view:widget/common/searchRecmd/searchSug/searchSug.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/searchRecmd/searchSug/searchSug_5b68b3d.js","deps":["sf_view:widget/common/log.js","sf_view:widget/common/gd.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/searchRecmd/searchRecmd.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/searchRecmd/searchRecmd_cc53f5b.js","deps":["sf_view:widget/common/searchRecmd/searchSug/searchSug.js","sf_view:widget/common/gd.js","sf_view:widget/common/log.js"],"pkg":"sf_view:p14"},"sf_view:widget/toc/component/topBar/components/search/search.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/search/search_8e9f26a.js"},"sf_view:widget/toc/component/topBar/components/share/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/share/log_7760668.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topBar/components/share/share.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/share/share_cfb9f18.js","deps":["sf_view:widget/toc/component/topBar/components/share/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topBar/components/shareGuide/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/shareGuide/log_483fa8a.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/topBar/components/shareGuide/shareGuide.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/shareGuide/shareGuide_5ae03f7.js","deps":["sf_common:widget/util/cross_domain/cross_domain.js","sf_view:widget/toc/component/topBar/components/shareGuide/log.js"]},"sf_view:widget/toc/component/topBar/components/feedbackGuide/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/feedbackGuide/log_0a7b238.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/topBar/components/feedbackGuide/feedbackGuide.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/feedbackGuide/feedbackGuide_8afa969.js","deps":["sf_common:widget/util/cross_domain/cross_domain.js","sf_view:widget/toc/component/topBar/components/feedbackGuide/log.js"]},"sf_common:widget/ui/CToast/CToast.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/ui/CToast/CToast_a9d51d7.js","pkg":"sf_common:p2"},"sf_view:widget/common/CPayInfo/CSendEmail/CSendEmail.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/CPayInfo/CSendEmail/CSendEmail_cad7f17.js","deps":["sf_common:widget/ui/CToast/CToast.js","sf_common:widget/util/cross_domain/cross_domain.js"],"pkg":"sf_view:p14"},"sf_common:widget/ui/CGuideToast/CGuideToast.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/ui/CGuideToast/CGuideToast_cf40211.js","pkg":"sf_common:p2"},"sf_common:widget/cashier/cashierGd.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/cashierGd_d2a43e5.js","pkg":"sf_common:p3"},"sf_common:widget/cashier/ui/cashierSalePrice/cashierSalePrice.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/ui/cashierSalePrice/cashierSalePrice_24c771f.js","deps":["sf_common:widget/cashier/cashierGd.js"],"pkg":"sf_common:p3"},"sf_common:widget/cashier/ui/cashierDocSale/cashierDocSale.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/ui/cashierDocSale/cashierDocSale_2e54e01.js","deps":["sf_common:widget/cashier/ui/cashierSalePrice/cashierSalePrice.js"],"pkg":"sf_common:p3"},"sf_common:widget/cashier/ui/cashierVipSale/cashierVipSale.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/ui/cashierVipSale/cashierVipSale_36c0675.js","deps":["sf_common:widget/cashier/ui/cashierSalePrice/cashierSalePrice.js","sf_common:widget/cashier/cashierGd.js"],"pkg":"sf_common:p3"},"sf_common:widget/cashier/model/getCashierData.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/model/getCashierData_7399dd3.js","deps":["sf_common:widget/cashier/cashierGd.js"],"pkg":"sf_common:p3"},"sf_common:widget/cashier/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/log_2ecab64.js","deps":["sf_common:widget/util/log.js","sf_common:widget/cashier/cashierGd.js"],"pkg":"sf_common:p3"},"sf_common:widget/cashier/cashierDailog.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/cashier/cashierDailog_dcd2a9b.js","deps":["sf_common:widget/cashier/ui/cashierDocSale/cashierDocSale.js","sf_common:widget/cashier/ui/cashierVipSale/cashierVipSale.js","sf_common:widget/cashier/model/getCashierData.js","sf_common:widget/cashier/cashierGd.js","sf_common:widget/util/cross_domain/cross_domain.js","sf_common:widget/cashier/ui/cashierSalePrice/cashierSalePrice.js","sf_common:widget/cashier/log.js"],"pkg":"sf_common:p3"},"sf_view:widget/toc/component/topBar/components/CDownloadBlock/CDownloadBlock.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/CDownloadBlock/CDownloadBlock_37641d4.js","deps":["sf_view:widget/common/CPayInfo/CSendEmail/CSendEmail.js","sf_common:widget/ui/CGuideToast/CGuideToast.js","sf_common:widget/cashier/cashierDailog.js","sf_view:widget/lib/async/nadownload.js","sf_common:widget/util/cross_domain/cross_domain.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topBar/components/download/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/download/log_c591f70.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topBar/components/download/download.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/download/download_b2fe625.js","deps":["sf_view:widget/common/CPayInfo/CSendEmail/CSendEmail.js","sf_view:widget/toc/component/topBar/components/CDownloadBlock/CDownloadBlock.js","sf_view:widget/toc/component/topBar/components/download/log.js","sf_view:widget/lib/async/nadownload.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topBar/components/setting/setting.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/setting/setting_0bb9024.js"},"sf_view:widget/toc/component/topBar/components/mask/mask.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/mask/mask_431e954.js"},"sf_view:widget/toc/component/topBar/components/toast/toast.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/toast/toast_e117806.js"},"sf_view:widget/toc/component/topBar/components/collect/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/collect/log_fd65b77.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topBar/components/collect/collect.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/components/collect/collect_e2a7c1a.js","deps":["sf_view:widget/lib/async/nadownload.js","sf_view:widget/toc/component/topBar/components/collect/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/common/model/login.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/model/login_ab7038b.js"},"sf_view:widget/common/model/fav.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/model/fav_1cd6787.js","deps":["sf_view:widget/common/gd.js","sf_view:widget/common/model/login.js"]},"sf_view:widget/toc/component/topBar/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/log_1fbbfde.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/common/share/third_party/nativeShare.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/share/third_party/nativeShare_c81f23a.js"},"sf_view:widget/toc/component/topBar/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topBar/index_46e5729.js","deps":["sf_common:widget/third_party/vue.js","sf_view:widget/lib/async/nadownload.js","sf_view:widget/common/searchRecmd/searchRecmd.js","sf_view:widget/toc/component/topBar/components/search/search.js","sf_view:widget/toc/component/topBar/components/share/share.js","sf_view:widget/toc/component/topBar/components/shareGuide/shareGuide.js","sf_view:widget/toc/component/topBar/components/feedbackGuide/feedbackGuide.js","sf_view:widget/toc/component/topBar/components/download/download.js","sf_view:widget/toc/component/topBar/components/setting/setting.js","sf_view:widget/toc/component/topBar/components/mask/mask.js","sf_view:widget/toc/component/topBar/components/toast/toast.js","sf_view:widget/toc/component/topBar/components/collect/collect.js","sf_view:widget/common/model/fav.js","sf_view:widget/common/gd.js","sf_common:widget/util/cross_domain/cross_domain.js","sf_view:widget/common/androidWechat/androidWechat.js","sf_view:widget/toc/component/topBar/log.js","sf_view:widget/common/share/third_party/nativeShare.js"]},"sf_view:widget/common/model/bgcpgc.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/model/bgcpgc_cd5b2de.js","deps":["sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/topDocInfo/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topDocInfo/log_ff80452.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/topDocInfo/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/topDocInfo/index_ea28f00.js","deps":["sf_common:widget/third_party/vue.js","sf_view:widget/common/model/bgcpgc.js","sf_view:widget/toc/component/topDocInfo/log.js"]},"sf_view:widget/toc/component/guideToWkApp/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/guideToWkApp/log_e043e7c.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/guideToWkApp/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/guideToWkApp/index_9367f2a.js","deps":["sf_view:widget/toc/component/guideToWkApp/log.js","sf_view:widget/lib/async/nadownload.js","sf_view:widget/common/gd.js"]},"sf_view:widget/common/goToApp.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/goToApp_44eeaba.js","deps":["sf_common:widget/util/cross_domain/cross_domain.js","sf_view:widget/common/gd.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/nearread.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/nearread_6a7d4ce.js","deps":["sf_common:widget/util/cross_domain/cross_domain.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/statistic.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/statistic_c22b664.js","deps":["sf_view:widget/common/gd.js"],"pkg":"sf_view:p14"},"sf_view:widget/toc/component/tininessMix/guideToApp/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/tininessMix/guideToApp/log_cbc70e8.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/tininessMix/guideToApp/guideToApp.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/tininessMix/guideToApp/guideToApp_2025d86.js","deps":["sf_view:widget/toc/component/tininessMix/guideToApp/log.js"]},"sf_view:widget/common/rightFixedAd/rightFixedAd.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/rightFixedAd/rightFixedAd_78839f3.js","deps":["sf_common:widget/util/cross_domain/cross_domain.js"],"pkg":"sf_view:p14"},"sf_view:widget/toc/component/tininessMix/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/tininessMix/index_eed0789.js","deps":["sf_view:widget/common/goToApp.js","sf_view:widget/common/gd.js","sf_view:widget/common/log.js","sf_view:widget/common/nearread.js","sf_view:widget/common/statistic.js","sf_view:widget/toc/component/tininessMix/guideToApp/guideToApp.js","sf_view:widget/common/rightFixedAd/rightFixedAd.js"]},"sf_view:widget/toc/component/gainDocBlock/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/gainDocBlock/log_05367c5.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/gainDocBlock/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/gainDocBlock/index_ea1f210.js","deps":["sf_view:widget/common/gd.js","sf_common:widget/third_party/vue.js","sf_view:widget/toc/component/gainDocBlock/log.js"]},"sf_view:widget/common/docTypeTools.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/docTypeTools_8df574f.js"},"sf_view:widget/toc/component/rec/text/bAd/wm.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/text/bAd/wm_a2515f3.js","deps":["sf_view:widget/common/util.js"]},"sf_view:widget/toc/component/rec/text/bAd/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/text/bAd/index_a83b96f.js","deps":["sf_view:widget/toc/component/rec/text/bAd/wm.js"]},"sf_view:widget/toc/component/rec/text/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/text/log_19826b5.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/rec/text/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/text/index_cd86bda.js","deps":["sf_view:widget/common/gd.js","sf_common:widget/third_party/vue.js","sf_view:widget/common/docTypeTools.js","sf_view:widget/lib/async/nadownload.js","sf_view:widget/toc/component/rec/text/bAd/index.js","sf_view:widget/toc/component/rec/text/log.js","sf_view:node_modules/@baidu/cross-domain/src/cross_domain.js","sf_view:node_modules/@baidu/session-x/index.js"]},"sf_view:widget/toc/component/rec/feed/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/feed/log_6373c2e.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/rec/feed/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/feed/index_c9a29f1.js","deps":["sf_common:widget/third_party/vue.js","sf_view:widget/lib/async/nadownload.js","sf_view:widget/toc/component/rec/feed/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/rec/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/rec/index_7ee838a.js","deps":["sf_view:widget/toc/component/rec/text/index.js","sf_view:widget/toc/component/rec/feed/index.js"]},"sf_view:widget/toc/component/pager/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/pager/log_4ab344b.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/pager/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/pager/index_fb057cf.js","deps":["sf_common:widget/third_party/vue.js","sf_view:widget/common/gd.js","sf_view:widget/lib/sync/log.js","sf_view:widget/toc/component/pager/log.js"]},"sf_view:widget/toc/component/foldPage/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/foldPage/log_50d298b.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/foldPage/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/foldPage/index_b6b728a.js","deps":["sf_view:widget/toc/component/foldPage/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/bottomBar/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/bottomBar/log_b08b9ce.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/common/waiting/waiting.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/waiting/waiting_5081138.js"},"sf_view:widget/toc/component/bottomBar/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/bottomBar/index_1276ba8.js","deps":["sf_view:widget/toc/component/bottomBar/log.js","sf_view:widget/common/waiting/waiting.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/bottomOp/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/bottomOp/log_481d741.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/bottomOp/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/bottomOp/index_14e8444.js","deps":["sf_view:widget/toc/component/bottomOp/log.js"]},"sf_view:widget/toc/component/b_asp/libs/dconf.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/libs/dconf_e863619.js","deps":["sf_view:widget/common/log.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/b_asp/libs/monitor.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/libs/monitor_f56c6ec.js"},"sf_view:widget/dep/detect.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/detect_d3ac44a.js","pkg":"sf_view:p13"},"sf_view:widget/dep/throttle.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/throttle_e110ac0.js","pkg":"sf_view:p13"},"sf_view:widget/dep/support.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/support_cb14268.js","pkg":"sf_view:p13"},"sf_view:widget/dep/matchMedia.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/matchMedia_e8de88a.js","pkg":"sf_view:p13"},"sf_view:widget/dep/event.scrollStop.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/event.scrollStop_65103d9.js","deps":["sf_view:widget/dep/throttle.js"],"pkg":"sf_view:p13"},"sf_view:widget/dep/event.ortchange.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/event.ortchange_2f668a0.js","pkg":"sf_view:p13"},"sf_view:widget/dep/imglazyload.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/imglazyload_e2d66de.js","pkg":"sf_view:p13"},"sf_view:widget/dep/zepto_extend.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/dep/zepto_extend_7d3b06e.js","deps":["sf_view:widget/dep/detect.js","sf_view:widget/dep/throttle.js","sf_view:widget/dep/support.js","sf_view:widget/dep/matchMedia.js","sf_view:widget/dep/event.scrollStop.js","sf_view:widget/dep/event.ortchange.js","sf_view:widget/dep/imglazyload.js"],"pkg":"sf_view:p13"},"sf_view:widget/lib/sync/util.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/lib/sync/util_8b2deea.js","deps":["sf_view:widget/dep/zepto_extend.js"]},"sf_view:widget/common/tob/libs/getQuery.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/tob/libs/getQuery_353e893.js","deps":["sf_view:widget/lib/sync/util.js"]},"sf_view:widget/toc/component/b_asp/new/model/getUDocInfo.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/new/model/getUDocInfo_ef68a96.js","deps":["sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/b_asp/new/model/getAspFcData.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/new/model/getAspFcData_e0575b8.js","deps":["sf_view:widget/common/tob/libs/getQuery.js","sf_view:widget/common/gd.js","sf_view:widget/toc/component/b_asp/new/model/getUDocInfo.js"]},"sf_view:widget/toc/component/b_asp/new/model/getAdInfo.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/new/model/getAdInfo_7be17fd.js"},"sf_view:widget/toc/component/b_asp/new/render/renderWm.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/new/render/renderWm_830c64c.js","deps":["sf_view:widget/common/util.js"]},"sf_view:widget/toc/component/b_asp/libs/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/libs/log_7b3d215.js"},"sf_view:widget/toc/component/b_asp/bboost.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/bboost_f46801b.js","deps":["sf_view:widget/toc/component/b_asp/new/model/getAspFcData.js","sf_view:widget/common/util.js"]},"sf_view:widget/toc/component/b_asp/new/render/renderAsp.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/new/render/renderAsp_601ca15.js","deps":["sf_view:widget/toc/component/b_asp/new/model/getAspFcData.js","sf_view:widget/toc/component/b_asp/new/model/getAdInfo.js","sf_view:widget/toc/component/b_asp/new/render/renderWm.js","sf_view:widget/common/gd.js","sf_view:widget/toc/component/b_asp/libs/log.js","sf_view:widget/toc/component/b_asp/bboost.js"]},"sf_view:widget/toc/component/b_asp/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_asp/index_bec7217.js","deps":["sf_view:widget/toc/component/b_asp/libs/dconf.js","sf_view:widget/toc/component/b_asp/libs/monitor.js","sf_view:widget/common/gd.js","sf_view:widget/toc/component/b_asp/new/render/renderAsp.js"]},"sf_view:widget/toc/component/xiongzhanghao/renderXzh.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/xiongzhanghao/renderXzh_177706d.js"},"sf_view:widget/toc/component/xiongzhanghao/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/xiongzhanghao/index_97538d8.js","deps":["sf_view:widget/toc/component/xiongzhanghao/renderXzh.js"]},"sf_view:widget/toc/component/b_tuijian/libs/getDmasData.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_tuijian/libs/getDmasData_60c7223.js","deps":["sf_view:widget/common/tob/libs/getQuery.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/b_tuijian/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_tuijian/log_172eca4.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/b_tuijian/renderTuijian.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_tuijian/renderTuijian_eee9378.js","deps":["sf_view:widget/toc/component/b_tuijian/libs/getDmasData.js","sf_view:widget/toc/component/b_tuijian/log.js"]},"sf_view:widget/toc/component/b_tuijian/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_tuijian/index_a2ab2b6.js","deps":["sf_view:widget/toc/component/b_asp/libs/dconf.js","sf_view:widget/toc/component/b_asp/libs/monitor.js","sf_view:widget/toc/component/b_tuijian/renderTuijian.js"]},"sf_view:widget/common/tob/afd/afdLog.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/tob/afd/afdLog_2624b5e.js"},"sf_view:widget/common/tob/afd/ck_cmd.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/tob/afd/ck_cmd_1620a75.js"},"sf_view:widget/common/tob/afd/afd.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/tob/afd/afd_04e3f74.js","deps":["sf_view:widget/common/tob/afd/afdLog.js","sf_view:widget/common/tob/afd/ck_cmd.js","sf_common:widget/util/cross_domain/cross_domain.js","sf_view:widget/common/tob/libs/getQuery.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/b_suiwen/renderSuiwen.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_suiwen/renderSuiwen_3a607b4.js","deps":["sf_view:widget/common/tob/afd/afd.js"]},"sf_view:widget/toc/component/b_suiwen/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_suiwen/index_18d3d5f.js","deps":["sf_view:widget/toc/component/b_asp/libs/dconf.js","sf_view:widget/toc/component/b_suiwen/renderSuiwen.js"]},"sf_view:widget/common/tob/libs/smallFlow.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/tob/libs/smallFlow_2f0b56a.js","deps":["sf_common:widget/util/cross_domain/cross_domain.js"]},"sf_view:widget/toc/component/b_bigpic/renderBigpic.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_bigpic/renderBigpic_8b5f195.js","deps":["sf_view:widget/common/tob/libs/smallFlow.js","sf_view:widget/common/tob/afd/afd.js"]},"sf_view:widget/toc/component/b_bigpic/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/b_bigpic/index_beee014.js","deps":["sf_view:widget/toc/component/b_asp/libs/dconf.js","sf_view:widget/toc/component/b_bigpic/renderBigpic.js"]},"sf_view:widget/toc/component/copyPrevilege/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/copyPrevilege/log_4e36543.js","deps":["sf_common:widget/util/log.js"]},"sf_view:widget/toc/component/copyPrevilege/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/copyPrevilege/index_f392143.js","deps":["sf_view:widget/toc/component/copyPrevilege/log.js","sf_view:widget/common/gd.js","sf_common:widget/util/cross_domain/cross_domain.js"]},"sf_view:widget/toc/component/wenquAD/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/wenquAD/log_d1192f4.js","deps":["sf_common:widget/util/log.js","sf_view:widget/common/util.js","sf_view:widget/common/gd.js"]},"sf_view:widget/toc/component/wenquAD/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/toc/component/wenquAD/index_84b8ee4.js","deps":["sf_view:widget/toc/component/wenquAD/log.js"]},"sf_view:widget/common/lazyload.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/lazyload_7ee0f1e.js","pkg":"sf_view:p14"},"sf_view:widget/common/knowledge_point/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/knowledge_point/log_89134fe.js","deps":["sf_common:widget/util/log.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/knowledge_point/knowledge_point.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/knowledge_point/knowledge_point_6838b42.js","deps":["sf_view:widget/common/lazyload.js","sf_view:widget/common/gd.js","sf_view:widget/common/knowledge_point/log.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/view/imageView/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/log_3399ed3.js","deps":["sf_view:widget/common/gd.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/tools/mediator.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/tools/mediator_41b7920.js","pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/tools/hammer-v2.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/tools/hammer-v2_ae9a343.js","pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/zoomView/control.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/zoomView/control_2caa923.js","deps":["sf_view:widget/common/view/imageView/log.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/zoomView/zoomView.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/zoomView/zoomView_294b400.js","deps":["sf_view:widget/common/view/imageView/tools/hammer-v2.js","sf_view:widget/common/view/imageView/zoomView/control.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/swipeView/panel.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/swipeView/panel_81fbdc5.js","deps":["sf_view:widget/common/view/imageView/zoomView/zoomView.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/swipeView/control.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/swipeView/control_89395a1.js","deps":["sf_view:widget/common/view/imageView/log.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/swipeView/swipeView.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/swipeView/swipeView_b923e15.js","deps":["sf_view:widget/common/view/imageView/tools/hammer-v2.js","sf_view:widget/common/view/imageView/swipeView/panel.js","sf_view:widget/common/view/imageView/swipeView/control.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/imageView/imageView.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/imageView/imageView_5f4d838.js","deps":["sf_view:widget/common/view/imageView/log.js","sf_view:widget/common/view/imageView/tools/mediator.js","sf_view:widget/dep/zepto_extend.js","sf_view:widget/common/view/imageView/swipeView/swipeView.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/view/viewAssist.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/view/viewAssist_9497c96.js","deps":["sf_view:widget/common/view/imageView/imageView.js"],"pkg":"sf_view:p15"},"sf_view:widget/common/CPayInfo/CPageEnd/log.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/CPayInfo/CPageEnd/log_0633432.js","deps":["sf_common:widget/util/log.js"],"pkg":"sf_view:p14"},"sf_view:widget/common/CPayInfo/CPageEnd/CPageEnd.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/CPayInfo/CPageEnd/CPageEnd_c624b10.js","deps":["sf_view:widget/common/CPayInfo/CPageEnd/log.js","sf_common:widget/cashier/cashierDailog.js","sf_common:widget/util/cross_domain/cross_domain.js"],"pkg":"sf_view:p14"},"sf_common:widget/returnSearch/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/widget/returnSearch/index_d2322b1.js"},"sf_view:widget/common/share/shareWechat/index.js":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/widget/common/share/shareWechat/index_d444a34.js"}},"pkg":{"sf_common:p4":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/pkg/widget/cashierVIP_4bfd04f.js"},"sf_view:p14":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/common.async_9ee38cd.js"},"sf_common:p2":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/pkg/widget/ui_b32dd09.js"},"sf_common:p3":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/pkg/widget/cashier_7dc3c3e.js"},"sf_view:p13":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/common.sync3_74063e5.js"},"sf_view:p15":{"url":"//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/common.view_156620f.js"}}});}}();</script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/common.nm_10f6246.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/toc.common.sync_cafce15.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/common.sync_9f2e5a0.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_view/pkg/xreader.sync_4397277.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/pkg/libs2_4f2ebd1.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wapwenku/static/static_for_sf/sf_common/pkg/libs_45630e2.js"></script><script type="text/javascript">!function(page) {with(page){!function() {
+    var crossDomain = require('sf_view:node_modules/@baidu/cross-domain/src/cross_domain.js').createCrossDomain('wk.baidu.com', '//wk.baidu.com/proxy.html');
+    var sessionX = require('sf_view:node_modules/@baidu/session-x/index.js');
+    var sessionXMgr = sessionX.sessionXMgr;
+    sessionXMgr.init(crossDomain.sessionStorage);
+    var urlParam = sessionXMgr.getUrlParam();
+    // 新会员小流量
+    vw.isNewVipStatus = 1;
+    vw.isProfessionalDoc = !! 0;
+    shareDoc = 1
+    // 文档类型
+    var docValueType = 0;
+    var docPrizeOrTicket = docValueType ? NaN : 1;
+    page.wkwapfelogConf = {
+        readerType: 'xreader',
+        docId: 'c4e094e01ed9ad51f11df258',
+        version: '201711',
+        category: 'toc',
+        sf: +'0',
+        isNewVipStatus: vw.isNewVipStatus,
+        docValueType: docValueType, // 财富值、付费
+        docPrizeOrTicket: docPrizeOrTicket, // docValueType = 0 下载券 = 1 价格
+        isProfessionalDoc: vw.isProfessionalDoc,
+        isShareDoc: shareDoc,
+        'wapwenku-felog-data-wap-rec-doc-2017': -1,
+        ppt2Retype: '0',
+        '_sessionx_url_param': JSON.stringify(urlParam)
+    };
+    page.globalData = page.wkwapfelogConf;
+}();
+!function() {
+    // 文档渲染后 再运行，性能优化
+    var fn = function () {
+        require.async(['sf_common:widget/cashierVIP/index.js'], function(CashierVIP) {
+            new CashierVIP({
+                isLogin: 0,
+                docId: 'c4e094e01ed9ad51f11df258',
+                docInfo: {"mydoc":0,"isPaymentDoc":0,"cid1":"10","cid2":"109","cid3":"0","cid4":null,"docTitle":"华南农业大学计算机组成原理试卷(及答案)汇总","docType":"1","docDesc":"%u534E%u5357%u519C%u4E1A%u5927%u5B66%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%u4ECE08-09%u523010-11%u5E74%u4E09%u5957%u8BD5%u9898%u6C47%u603B%u3002%u6709%u8BE6%u7EC6%u7B54%u6848%u3002%0D%0A%u5BF9%u5E94%u6559%u6750%u7248%u672C%uFF1A%u767D%u4E2D%u82F1%20%u6234%u5FD7%u6D9B%20%u4E3B%u7F16%u300A%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%20%u7B2C%u4E94%u7248%u300B%20%u79D1%u5B66%u51FA%u7248%u793E%u51FA%u7248","docSize":"1855488","docPrice":"1","docTicket":1,"viewCount":"925","downloadCount":"43","createUser":"思虑中迷失方向","avadar":"https://gss0.bdstatic.com/7Ls0a8Sm1A5BphGlnYG/sys/portraitn/item/13dccbbcc2c7d6d0c3d4caa7b7bdcff2b432","createTime":"1433943218","show_create_time":"2015-06-10 21:33:38","show_update_time":"2015-06-10 21:33:38","valueCount":"2","valueScore":"10","totalPageNum":"40","flag":"0","main_status":"2","ishide":"0","keyWord":"%u534E%u5357%u519C%u4E1A%u5927%u5B66%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%u4ECE08-09%u523010-11%u5E74%u4E09%u5957%u8BD5%u9898%u6C47%u603B%u3002%u6709%u8BE6%u7EC6%u7B54%u6848%u3002%0D%0A%u5BF9%u5E94%u6559%u6750%u7248%u672C%uFF1A%u767D%u4E2D%u82F1%20%u6234%u5FD7%u6D9B%20%u4E3B%u7F16%u300A%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%20%u7B2C%u4E94%u7248%u300B%20%u79D1%u5B66%u51FA%u7248%u793E%u51FA%u7248","qualityScore":"4.9","zan":0,"cai":0,"downloadToken":"a503e5c42c639d6e4a668c7305f77044","ispaied":null,"isdownloadable":null,"_payInfo":{"docStatus":"试读结束","end-tip":"购买后阅读全文"},"isOrgCustomized":false},
+                vipUserInfo: {"isVip":false,"currentVipType":"","isTicketDocGot":false,"downloadTicketCount":0},
+                isNewVip: Boolean(1),
+                readerType: 'xreader',
+                ppt2Retype: '0'
+            });
+        });
+    };
+    $(customEventMediator).on('docRenderDone', function (e, data) {
+        var ops = typeof data === 'object' ? data : {};
+        if (ops.isFirstAll) {
+            fn();
+        }
+    })
+}();
+!function() {
+    // 文档渲染后 再运行，性能优化
+    var fn = function () {
+        require.async(['sf_common:widget/voucherPackage/index.js'], function(VoucherPackage) {
+            new VoucherPackage();
+        });
+    };
+    $(customEventMediator).on('docRenderDone', function (e, data) {
+        var ops = typeof data === 'object' ? data : {};
+        if (ops.isFirstAll) {
+            fn();
+        }
+    })
+}();
+!function() {
+    // 文档渲染后 再运行，性能优化
+    var fn = function () {
+        require.async(['sf_common:widget/voucher/index.js'], function(Voucher) {
+            new Voucher({
+                isLogin: 0
+            });
+        });
+    };
+    $(customEventMediator).on('docRenderDone', function (e, data) {
+        var ops = typeof data === 'object' ? data : {};
+        if (ops.isFirstAll) {
+            fn();
+        }
+    })
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.topBar = {
+        viewerType: 'xreader',
+        btnShow: {"back":false},
+        settingShow: {
+            head: 'xreader' !== 'ppt'
+        },
+        vipUserInfo: {"isVip":false,"currentVipType":"","isTicketDocGot":false,"downloadTicketCount":0}
+    };
+    window.isNewVipTest = !!1;
+    window.isProfessionalDoc = !! 0
+
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.b_asp = {
+        show: +'1'
+    };
+}();
+!function() {
+    var that = this;
+    var $mediator = $(customEventMediator);
+    var $vw = $(vw.container);
+    var $root = $('.sf-edu-wenku-id-content', $vw);
+    var register = require('sf_view:widget/toc/component/register.js');
+    register.run({
+        readerType: 'xreader'
+    });
+    var subEntry = require('sf_view:widget/common/sub_entry/sub_entry.js');
+    subEntry.start($root, 'xreader');
+    $mediator.on('docRenderDone', function () {
+        require.async(['sf_view:widget/common/view/viewAssist.js', 'sf_view:widget/common/lazyload.js'], function (ViewAssist, lazyLoadImage) {
+            that.viewAssist = new ViewAssist($root, 'xreader');
+            lazyLoadImage();
+        });
+    });
+
+    if (!window._SF_.__SYNC__PAGE__ && window._SF_.vw.wkCustom
+        && window._SF_.vw.wkCustom.hideLoading) {
+        window._SF_.vw.wkCustom.hideLoading(true);
+    }
+    require.globalData.set('windowHasLoaded', false);
+    if (window._SF_.__SYNC__PAGE__) {
+        // dp自定义事件
+        var dpCustomeventsLog = require('sf_view:widget/lib/sync/log.js').dpCustomeventsLog;
+        // dp自定义事件 - 统计 模板中js开始执行时间点
+        dpCustomeventsLog.setTime('jsRunInTemplate');
+
+        $(window).on('load',function () {
+            require.globalData.set('windowHasLoaded', true);
+            $(customEventMediator).trigger('window-onload');
+        });
+    }
+    else {
+        vw.on('attach', function () {
+            require.globalData.set('windowHasLoaded', true);
+            $(customEventMediator).trigger('window-onload');
+        });
+    }
+
+    var globalData = require('sf_view:widget/common/gd.js');
+    globalData.set({
+        doc_id: 'c4e094e01ed9ad51f11df258',
+        isLogin: 0,
+        // docInfo.docInfo.totalPageNum在后续逻辑中被强依赖修改，这里用个新的变量来保存真正的页码数
+        realPageCount: 40,
+        docTypeName: 'word',
+        docIdUpdate: 'f37f89e5551810a6f5248684',
+        isPaper: '0',
+        hasImage: '0',
+        docTitle: '华南农业大学计算机组成原理试卷(及答案)汇总',
+        goToApp: 1,
+        secondClassify: '109',
+        isSug: 'true' === 'true',
+        vipUserInfo: {"isVip":false,"currentVipType":"","isTicketDocGot":false,"downloadTicketCount":0},
+        vipInfo: {"vip_type":0,"flag":0,"edu_vip_type":0,"jiaoyu_vip_type":0},
+        isWapvipTest: !!0,
+        recKnowledgeArr: [{"id":"c1c2762fb4daa58da0114ae4","ent_uuid":"c1c2762fb4daa58da0114ae4","name":"微程序控制器","type":"entity"},{"id":"9f3348a20029bd64783e2ce4","ent_uuid":"9f3348a20029bd64783e2ce4","name":"浮点加减运算","type":"entity"},{"id":"582a867da26925c52cc5bf90","ent_uuid":"582a867da26925c52cc5bf90","name":"字位同时扩展","type":"entity"},{"id":"d069eb956bec0975f465e229","ent_uuid":"d069eb956bec0975f465e229","name":"双端口存储器","type":"entity"},{"id":"0845b51fb7360b4c2e3f64b5","ent_uuid":"0845b51fb7360b4c2e3f64b5","name":"立即寻址方式","type":"entity"},{"id":"58fc6d3f5727a5e9856a61b5","ent_uuid":"58fc6d3f5727a5e9856a61b5","name":"寄存器间接寻址方式","type":"entity"},{"id":"7d58161810a6f524ccbf85b7","ent_uuid":"7d58161810a6f524ccbf85b7","name":"存储器的组成","type":"entity"},{"id":"23de7269a45177232f60a2f0","ent_uuid":"23de7269a45177232f60a2f0","name":"精简指令系统","type":"entity"},{"id":"2bb5fd1e650e52ea551898f0","ent_uuid":"2bb5fd1e650e52ea551898f0","name":"集中式仲裁","type":"entity"},{"id":"5a19532de2bd960590c677f0","ent_uuid":"5a19532de2bd960590c677f0","name":"磁盘存储器的技术指标","type":"entity"},{"id":"dc22d20590c69ec3d5bb759a","ent_uuid":"dc22d20590c69ec3d5bb759a","name":"数据相关冲突","type":"entity"},{"id":"75bdf8d126fff705cc170a9a","ent_uuid":"75bdf8d126fff705cc170a9a","name":"计算机的存储器","type":"entity"},{"id":"a45e303231126edb6f1a1053","ent_uuid":"a45e303231126edb6f1a1053","name":"浮点运算方法","type":"entity"},{"id":"e9714122192e45361066f552","ent_uuid":"e9714122192e45361066f552","name":"微指令周期","type":"entity"},{"id":"22663ad184254b35eefd346d","ent_uuid":"22663ad184254b35eefd346d","name":"指令格式和寻址方式","type":"entity"}]
+    });
+    $mediator.on('docRenderDone', function () {
+        require.async(['sf_view:widget/common/CPayInfo/CPageEnd/CPageEnd.js'], function (CPageEndPay) {
+            var data = globalData;
+            var $endPay = $('.--c-public-cpayinfo-cpageend-toc', $vw);
+            var $proEndPay = $('.c-publicwg-cpayinfowg-cpageendwg-root-toc', $vw);
+            if ((!$endPay.length || $proEndPay.length > 0 || (vw.isProfessionalDoc && vw.isNewVipStatus))
+                || ($endPay.length && $endPay.data('rendered'))) {
+                return;
+            }
+            $endPay.data('rendered', 1);
+            CPageEndPay.render($endPay, {
+                docId: data.doc_id,
+                docInfo: data.docInfo,
+                isLogin: data.isLogin,
+                docTypeName: data.docTypeName,
+                vipInfo: data.vipInfo,
+                realPageCount: data.realPageCount
+            });
+        });
+    });
+
+    if (window._SF_.__SYNC__PAGE__) {
+        // dp自定义事件 - 统计 阅读器初始化 延时运行前的时间点
+        dpCustomeventsLog.setTime('initReaderDelay');
+        // dp自定义事件 - 统计 阅读器初始化 延时运行耗时
+        dpCustomeventsLog.send({
+            key: 'initReaderDelay',
+            event: 'z_initReaderDelay'
+        }).setTime('initReaderStart');
+        // dp自定义事件 - 统计 阅读器初始化耗时
+        dpCustomeventsLog.send({
+            key: 'initReaderStart',
+            event: 'z_initReaderRunTime'
+        });
+
+        // dp自定义事件 - 统计 模板中js执行耗时
+        dpCustomeventsLog.send({
+            key: 'jsRunInTemplate',
+            event: 'z_jsRunInTemplate'
+        }).setTime('toFirstScreenNoImg');
+    }
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.topDocInfo = {
+        docId: 'c4e094e01ed9ad51f11df258'
+    };
+}();
+!function() {
+    var Reader = require('sf_view:widget/cXreader/main.js');
+    var reader = new Reader({
+        docinfo: {"doc_id":"c4e094e01ed9ad51f11df258","doc_id_update":"f37f89e5551810a6f5248684","is_login":0,"bucketNum":53,"docInfo":{"mydoc":0,"isPaymentDoc":0,"cid1":"10","cid2":"109","cid3":"0","cid4":null,"docTitle":"华南农业大学计算机组成原理试卷(及答案)汇总","docType":"1","docDesc":"%u534E%u5357%u519C%u4E1A%u5927%u5B66%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%u4ECE08-09%u523010-11%u5E74%u4E09%u5957%u8BD5%u9898%u6C47%u603B%u3002%u6709%u8BE6%u7EC6%u7B54%u6848%u3002%0D%0A%u5BF9%u5E94%u6559%u6750%u7248%u672C%uFF1A%u767D%u4E2D%u82F1%20%u6234%u5FD7%u6D9B%20%u4E3B%u7F16%u300A%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%20%u7B2C%u4E94%u7248%u300B%20%u79D1%u5B66%u51FA%u7248%u793E%u51FA%u7248","docSize":"1855488","docPrice":"1","docTicket":1,"viewCount":"925","downloadCount":"43","createUser":"思虑中迷失方向","avadar":"https://gss0.bdstatic.com/7Ls0a8Sm1A5BphGlnYG/sys/portraitn/item/13dccbbcc2c7d6d0c3d4caa7b7bdcff2b432","createTime":"1433943218","show_create_time":"2015-06-10 21:33:38","show_update_time":"2015-06-10 21:33:38","valueCount":"2","valueScore":"10","totalPageNum":"40","flag":"0","main_status":"2","ishide":"0","keyWord":"%u534E%u5357%u519C%u4E1A%u5927%u5B66%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%u4ECE08-09%u523010-11%u5E74%u4E09%u5957%u8BD5%u9898%u6C47%u603B%u3002%u6709%u8BE6%u7EC6%u7B54%u6848%u3002%0D%0A%u5BF9%u5E94%u6559%u6750%u7248%u672C%uFF1A%u767D%u4E2D%u82F1%20%u6234%u5FD7%u6D9B%20%u4E3B%u7F16%u300A%u8BA1%u7B97%u673A%u7EC4%u6210%u539F%u7406%20%u7B2C%u4E94%u7248%u300B%20%u79D1%u5B66%u51FA%u7248%u793E%u51FA%u7248","qualityScore":"4.9","zan":0,"cai":0,"downloadToken":"a503e5c42c639d6e4a668c7305f77044","ispaied":null,"isdownloadable":null,"_payInfo":{"docStatus":"试读结束","end-tip":"购买后阅读全文"},"isOrgCustomized":false},"mydoc":0,"vip_info":{"vip_type":0,"flag":0,"edu_vip_type":0,"jiaoyu_vip_type":0},"isPaymentDoc":0,"isOrgCustomized":false,"freepagenum":null,"crumbs":[{"cid":"edu","cname":"教育专区"},{"cid":"10","cname":"高等教育"},{"cid":"109","cname":"工学"}],"ispaper":0,"hasImage":0,"debug":{"oid":0},"creatorInfo":{"user_type":0},"smallFlowProfessionalDoc":1,"rtcs_page_count":24,"rtcs_range_info":[{"page":1,"range":"0-20309"},{"page":2,"range":"20310-38933"},{"page":3,"range":"38934-77576"},{"page":4,"range":"77577-106482"},{"page":5,"range":"106483-157633"},{"page":6,"range":"157634-179310"},{"page":7,"range":"179311-195611"},{"page":8,"range":"195612-226086"},{"page":9,"range":"226087-247212"},{"page":10,"range":"247213-275856"},{"page":11,"range":"275857-397551"},{"page":12,"range":"397552-426165"},{"page":13,"range":"426166-438826"},{"page":14,"range":"438827-455218"},{"page":15,"range":"455219-479899"},{"page":16,"range":"479900-526850"},{"page":17,"range":"526851-559961"},{"page":18,"range":"559962-597882"},{"page":19,"range":"597883-637628"},{"page":20,"range":"637629-690280"},{"page":21,"range":"690281-728048"},{"page":22,"range":"728049-783300"},{"page":23,"range":"783301-819943"},{"page":24,"range":"819944-"}],"rtcs_flow":100,"wap_render_type":"retype","ori_render_type":"retype","na_render_type":"retype","rtcs_flow_wap":0,"rtcs_flow_rem":2,"rtcs_meta_info":"{\"W:TBL\":33,\"W:TR\":51,\"W:PICT\":42,\"W:OBJECT\":17,\"O:OLEOBJECT\":17,\"O:OLEOBJECT:Equation.3\":15,\"O:OLEOBJECT:Visio.Drawing.11\":1,\"O:OLEOBJECT:Paint.Picture\":1}","business_info":{"business_doc":0},"official_info":{"block_ad":1,"uid":"850713619","official_id":null,"pic_url":null,"official_name":null,"title":"华南农业大学计算机组成原理试卷(及答案)汇总","create_time":"2018-07-13","org_name":null},"call_app":1,"htmlBcs":false,"isHtml":true,"md5sum":"&md5sum=8142a246ab47c8d0a0dc23dfb0d3be76&sign=d9b11676c5&rtcs_flag=1&rtcs_ver=1.999","bcsParam":[{"merge":"0-41602","zoom":"&png=0-142&jpg=0-0","page":1},{"merge":"41603-85230","zoom":"&png=143-338&jpg=0-0","page":2},{"merge":"85231-110188","zoom":"&png=339-526&jpg=0-0","page":3},{"merge":"110189-127433","zoom":"&png=527-669&jpg=0-0","page":4},{"merge":"127434-156415","zoom":"&png=670-812&jpg=0-0","page":5},{"merge":"156416-198079","zoom":"&png=813-1039&jpg=0-0","page":6},{"merge":"198080-233995","zoom":"&png=1040-1352&jpg=0-22700","page":7},{"merge":"233996-264637","zoom":"&png=1353-1527&jpg=22701-23909","page":8},{"merge":"264638-304283","zoom":"&png=1528-1761&jpg=23910-25129","page":9},{"merge":"304284-339961","zoom":"&png=1762-5603&jpg=25130-25130","page":10},{"merge":"339962-361048","zoom":"&png=5604-5848&jpg=25130-27192","page":11},{"merge":"361049-369440","zoom":"&png=5849-11116&jpg=27193-27193","page":12},{"merge":"369441-392349","zoom":"&png=11117-11290&jpg=27193-28406","page":13},{"merge":"392350-418649","zoom":"&png=11291-13178&jpg=28407-29619","page":14},{"merge":"418650-459083","zoom":"&png=13179-19895&jpg=29620-64661","page":15},{"merge":"459084-481638","zoom":"&png=19896-20094&jpg=64662-65868","page":16},{"merge":"481639-496020","zoom":"&png=20095-22463&jpg=65869-67073","page":17},{"merge":"496021-529643","zoom":"&png=22464-22613&jpg=67074-67074","page":18},{"merge":"529644-552921","zoom":"&png=22614-26500&jpg=67074-79898","page":19},{"merge":"552922-566502","zoom":"&png=26501-36453&jpg=79899-79899","page":20},{"merge":"566503-582051","zoom":"&png=36454-36779&jpg=79899-79899","page":21},{"merge":"582052-604521","zoom":"&png=36780-36935&jpg=79899-79899","page":22},{"merge":"604522-615815","zoom":"&png=36936-49129&jpg=79899-79899","page":23},{"merge":"615816-643380","zoom":"&png=49130-49451&jpg=79899-93824","page":24},{"merge":"643381-669223","zoom":"&png=49452-49670&jpg=93825-93825","page":25},{"merge":"669224-694249","zoom":"&png=49671-92941&jpg=93825-93825","page":26},{"merge":"694250-716956","zoom":"&png=92942-93240&jpg=93825-100874","page":27},{"merge":"716957-745410","zoom":"&png=93241-93446&jpg=100875-100875","page":28},{"merge":"745411-789553","zoom":"&png=93447-93871&jpg=100875-116751","page":29},{"merge":"789554-814038","zoom":"&png=93872-98795&jpg=116752-117973","page":30},{"merge":"814039-827301","zoom":"&png=98796-110189&jpg=117974-119178","page":31},{"merge":"827302-878048","zoom":"&png=110190-110640&jpg=119179-131606","page":32},{"merge":"878049-917010","zoom":"&png=110641-111708&jpg=131607-133056","page":33},{"merge":"917011-924873","zoom":"&png=111709-116737&jpg=133057-134261","page":34},{"merge":"924874-945511","zoom":"&png=116738-127215&jpg=134262-142080","page":35},{"merge":"945512-989146","zoom":"&png=127216-127768&jpg=142081-148382","page":36},{"merge":"989147-1038801","zoom":"&png=127769-128677&jpg=148383-148383","page":37},{"merge":"1038802-1056330","zoom":"&png=128678-132280&jpg=148383-149639","page":38},{"merge":"1056331-1066592","zoom":"&png=132281-137542&jpg=149640-149640","page":39},{"merge":"1066593-","zoom":"&png=137543-&jpg=149640-","page":40}],"rsign":"p_40-r_0-s_730f3","downloadToken":"a503e5c42c639d6e4a668c7305f77044","spiderShowTime":"2015-06-10 21:33:38","isTicketDocVipFree":false,"isWapvipTest":0,"docTypeName":"word","isNewVipTest":1,"isEffNewVip":1}
+    });
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.foldPage = {
+        docId: '',
+        readerType: 'xreader'
+    };
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.pager = {
+        readerType: 'xreader'
+    };
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.gainDocBlock = {
+        vipUserInfo: {"isVip":false,"currentVipType":"","isTicketDocGot":false,"downloadTicketCount":0}
+    };
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.copyPrevilege = {
+        docId: '',
+        readerType: 'xreader'
+    };
+}();
+!function() {
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.rec = {
+        recType: 'text',
+        showAd: +'1'
+    };
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.b_tuijian = {
+        show: +'1'
+    };
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.b_bigpic = {
+        show: +'1'
+    };
+}();
+!function() {
+    var $mediator = $(customEventMediator);
+    $mediator.on('docRenderFirstDone', function () {
+        require.async(['sf_common:widget/returnSearch/index.js'], function(returnSearch) {
+            returnSearch.init();
+        });
+    });
+}();
+!function() {
+// 文档渲染后 再运行，性能优化
+var fnReqShareWechat = function () {
+    require.async(['sf_view:widget/common/share/shareWechat/index.js'], function(shareWechat) {
+        shareWechat.init({
+            title: '华南农业大学计算机组成原理试卷(及答案)汇总 - 百度文库' || document.getElementsByTagName('title')[0].innerText,
+            summary: '' || document.getElementsByTagName('title')[0].innerText,
+            pic: 'https://edu-wenku.bdimg.com/v1/wap/share/doc_-1502806364763.png' || '',
+            url: '' || location.href
+        });
+    });
+};
+var oriCbDocRenderFirstDone = customEventMediator.cbDocRenderFirstDone;
+customEventMediator.cbDocRenderFirstDone = function () {
+    typeof oriCbDocRenderFirstDone === 'function' && oriCbDocRenderFirstDone.apply(customEventMediator, arguments);
+    setTimeout(fnReqShareWechat, 0);
+};
+
+$(customEventMediator).on('docRenderDone', function (e, data) {
+    var ops = typeof data === 'object' ? data : {};
+    if (ops.isFirstAll) {
+        fnReqShareWechat();
+    }
+});
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.tininessMix = {
+        readerType: 'xreader'
+    };
+}();
+!function() {
+    customEventMediator.componentParamCfg = customEventMediator.componentParamCfg || {};
+    customEventMediator.componentParamCfg.wenquAD = {
+        show: +'0',
+        pageId: ''
+    };
+}();}}(window._SF_.page);</script></body>
+
+    <script type="text/javascript">
+        window.alog && alog('speed.set', 'drt', +new Date);
+    </script>
+    <script>
+        (function () {
+            setTimeout(function () {
+                // 百度统计
+                var pathName = window.location.pathname;
+                var reg = new RegExp('^\/view\/', 'i');
+                if (reg.test(pathName)) {
+                    // 阅读页百度统计
+                    var _hmt = _hmt || [];
+                    (function() {
+                    var hm = document.createElement('script');
+                    hm.src = '//hm.baidu.com/hm.js?d348ccd08d80aaeb96f24bf28fbe7b1d';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(hm, s);
+                    })();
+                }
+                var _hmt = _hmt || [];
+                (function() {
+                    var hm = document.createElement('script');
+                    hm.src = '//hm.baidu.com/hm.js?f76d987dbbb6104ea10fe19907268860';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(hm, s);
+                })();
+            }, 2000);
+        })();
+    </script>
+    <script>
+        // 事业部seo监控
+        setTimeout(function () {
+            window._SF_.page.seoMonitorConf = {
+                mode: 'wenku_wap'
+            };
+            var seoSrc = 'https://edu-wenku.bdimg.com/v1/usergrowth/seo.online.js?t=' + new Date().getTime();
+            var script = document.createElement('script');
+            script.src = seoSrc;
+            document.body.appendChild(script);
+            setTimeout(function () {
+                document.body.removeChild(script);
+            }, 1000);
+        }, 0);
+        // 事业部seo监控 end
+    </script>
+</html>
